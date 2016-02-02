@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1454411955 source:/home/user/projects/stepic/mthreads/Step9/main.cpp
+	<iostream>
+
+1454413132 source:/home/user/projects/stepic/mthreads/Step9/sock_passing.cpp
+	"sock_passing.h"
+
+1454413115 /home/user/projects/stepic/mthreads/Step9/sock_passing.h
+	<sys/types.h>
+	<sys/socket.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
